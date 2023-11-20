@@ -9,7 +9,7 @@
 *   **Llama-2 7B:** генерация ответа от Незнайки
 *   **Bark:** text-to-speech модель для генерации аудио-ответа
 
-Дообучения модель лежит на https://huggingface.co/anastasia624/ru_nez3500-llama-2-7b
+Дообученная модель лежит на https://huggingface.co/anastasia624/ru_nez3500-llama-2-7b
 
 ### Описание содержания:
 
